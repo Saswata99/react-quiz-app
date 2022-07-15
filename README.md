@@ -4,7 +4,7 @@
 
 ***Quiz WebApp that access trivia questions from the [Open Trivia Database API](https://opentdb.com/) and score players based on their answers. Multiple game options like difficulty and category are available for the player to change.***
 
-## Built with:
+## ⚒Built with:
 - HTML 5
 - CSS 3
 - JavaScript
