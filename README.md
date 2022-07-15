@@ -1,4 +1,4 @@
-# 🌟React Quiz App
+# React Quiz App
 
 [https://saswatax.github.io/react-quiz-app/](https://saswatax.github.io/react-quiz-app/)
 
