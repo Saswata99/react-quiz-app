@@ -20,9 +20,9 @@ function Quiz(probs) {
         }
 
         return <input 
+            key={element} 
             className= {inputClass}
             type='button' 
-            id={element} 
             value={element}
             onClick={() => !submitPage && optionClick(element)} 
         />})

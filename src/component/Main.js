@@ -81,7 +81,7 @@ function Main(probs) {
 
     const quizElements = data.map((element, index) => 
             <Quiz 
-                id={element.question} 
+                key={element.question} 
                 {...element}
                 submitPage = {submitPage}
                 optionClick={(selectedAnswer) => optionClick(index, selectedAnswer)}>
